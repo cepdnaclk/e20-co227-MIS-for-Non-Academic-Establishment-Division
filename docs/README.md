@@ -2,14 +2,13 @@
 layout: home
 permalink: index.html
 
-# Please update this with your repository name and title
-repository-name: eYY-XXX-project-template
-title:
+repository-name: e20-co227-MIS-for-Non-Academic-Establishment-Division
+title: MIS-for-Non-Academic-Establishment-Division (G15)
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+MIS-for-Non-Academic-Establishment-Division
 
 ---
 
@@ -20,9 +19,10 @@ This is a sample image, to show how to add images to your page. To learn more op
  -->
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/19/174, Jegatheesan S., [e20174@eng.pdn.ac.lk](mailto:name@email.com)
+-  E/20/416, Vithushan E.T.L., [e20416@eng.pdn.ac.lk](mailto:name@email.com)
+-  E/20/099, Eniyavan T., [e20099@eng.pdn.ac.lk](mailto:name@email.com)
+-  E/20/371, Rishopika S., [e20371@eng.pdn.ac.lk](mailto:name@email.com)
 
 ## Table of Contents
 1. [Introduction](#introduction)
