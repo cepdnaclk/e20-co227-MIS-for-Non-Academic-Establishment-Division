@@ -1,5 +1,4 @@
 {
-    "title": "MIS for Non-Academic Establishment Division",
     "team": [
         {
             "name": "Vithushan E.T.L.",
@@ -26,7 +25,7 @@
         {
             "name": "Dr. U. Jayasinghe",
             "email": "upuljm@eng.pdn.ac.lk"
-        },
+        }
     ],
-    "tags": ["Web", "Software System"]
+    "tags": []
 }
